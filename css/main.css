@@ -7,6 +7,7 @@ body {
     MASTHEAD CSS 
 =============================================================*/
 .masthead {
+  background-color: #232121;
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url('../assets/bg.jpg');
   min-height: 100vh;
